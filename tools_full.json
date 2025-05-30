@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Bing Maps",
+    "description": "خدمة خرائط من مايكروسوفت توفر صورًا فضائية وخرائط طرق",
+    "category": "الخرائط وصور الأقمار الصناعية",
+    "url": "https://www.bing.com/maps"
+  },
+  {
+    "name": "Google Earth Pro",
+    "description": "برنامج يقدم صورًا فضائية عالية الدقة مع إمكانية استعراض الصور التاريخية",
+    "category": "الخرائط وصور الأقمار الصناعية",
+    "url": "https://www.google.com/earth/versions/#earth-pro"
+  },
+  {
+    "name": "DigitalGlobe",
+    "description": "مزود لصور الأقمار الصناعية التجارية عالية الدقة",
+    "category": "الخرائط وصور الأقمار الصناعية",
+    "url": "https://www.maxar.com"
+  },
+  {
+    "name": "EarthExplorer",
+    "description": "منصة من USGS تتيح الوصول إلى بيانات الأقمار الصناعية مثل Landsat",
+    "category": "الخرائط وصور الأقمار الصناعية",
+    "url": "https://earthexplorer.usgs.gov/"
+  },
+  {
+    "name": "Yandex Maps",
+    "description": "خدمة خرائط روسية تقدم صورًا فضائية وخرائط طرق",
+    "category": "الخرائط وصور الأقمار الصناعية",
+    "url": "https://yandex.com/maps"
+  },
+  {
+    "name": "Wikimapia",
+    "description": "مشروع تعاوني يدمج خرائط Google مع معلومات موسوعية",
+    "category": "الخرائط وصور الأقمار الصناعية",
+    "url": "http://wikimapia.org"
+  },
+  {
+    "name": "ExifTool",
+    "description": "أداة لاستخراج وتعديل البيانات الوصفية من الملفات",
+    "category": "التحقق من الصور والفيديوهات",
+    "url": "https://exiftool.org"
+  },
+  {
+    "name": "TinEye",
+    "description": "محرك بحث للصور يمكنه العثور على نسخ مختلفة من صورة معينة",
+    "category": "التحقق من الصور والفيديوهات",
+    "url": "https://tineye.com"
+  },
+  {
+    "name": "xIFr",
+    "description": "أداة لتحليل بيانات EXIF من الصور",
+    "category": "التحقق من الصور والفيديوهات",
+    "url": "https://29a.ch/photo-forensics/#xif"
+  },
+  {
+    "name": "Amnesty YouTube DataViewer",
+    "description": "يستخرج الطابع الزمني من فيديوهات يوتيوب",
+    "category": "التحقق من الصور والفيديوهات",
+    "url": "https://citizenevidence.amnestyusa.org"
+  },
+  {
+    "name": "Twitter Advanced Search",
+    "description": "أداة بحث متقدم لتويتر",
+    "category": "وسائل التواصل الاجتماعي",
+    "url": "https://twitter.com/search-advanced"
+  },
+  {
+    "name": "TGStat",
+    "description": "تحليلات لقنوات ومجموعات تيليجرام",
+    "category": "وسائل التواصل الاجتماعي",
+    "url": "https://tgstat.com"
+  },
+  {
+    "name": "WhatsMyName",
+    "description": "يبحث عن أسماء المستخدمين عبر مواقع متعددة",
+    "category": "وسائل التواصل الاجتماعي",
+    "url": "https://whatsmyname.app"
+  },
+  {
+    "name": "Who Posted What?",
+    "description": "أداة للبحث في منشورات فيسبوك",
+    "category": "وسائل التواصل الاجتماعي",
+    "url": "https://whopostedwhat.com"
+  },
+  {
+    "name": "VesselFinder",
+    "description": "تتبع السفن في الوقت الحقيقي",
+    "category": "النقل والمواصلات",
+    "url": "https://www.vesselfinder.com"
+  },
+  {
+    "name": "FlightRadar24",
+    "description": "تتبع الرحلات الجوية حول العالم",
+    "category": "النقل والمواصلات",
+    "url": "https://www.flightradar24.com"
+  },
+  {
+    "name": "MarineTraffic",
+    "description": "مراقبة حركة السفن والموانئ",
+    "category": "النقل والمواصلات",
+    "url": "https://www.marinetraffic.com"
+  },
+  {
+    "name": "SunCalc",
+    "description": "يحسب موقع الشمس في وقت معين",
+    "category": "التحقق من التاريخ والوقت",
+    "url": "https://suncalc.org"
+  },
+  {
+    "name": "Timeanddate.com",
+    "description": "يوفر معلومات دقيقة عن التوقيت والتقويم",
+    "category": "التحقق من التاريخ والوقت",
+    "url": "https://www.timeanddate.com"
+  },
+  {
+    "name": "EXIF.tools",
+    "description": "تحليل بيانات EXIF لتحديد توقيت التقاط الصور",
+    "category": "التحقق من التاريخ والوقت",
+    "url": "https://exif.tools"
+  },
+  {
+    "name": "Whois Lookup",
+    "description": "يستخرج معلومات تسجيل النطاقات",
+    "category": "تحليل المواقع الإلكترونية",
+    "url": "https://whois.domaintools.com"
+  },
+  {
+    "name": "What CMS",
+    "description": "يحدد نظام إدارة المحتوى المستخدم في موقع معين",
+    "category": "تحليل المواقع الإلكترونية",
+    "url": "https://whatcms.org"
+  },
+  {
+    "name": "BuiltWith",
+    "description": "يحلل تقنيات المواقع الإلكترونية",
+    "category": "تحليل المواقع الإلكترونية",
+    "url": "https://builtwith.com"
+  },
+  {
+    "name": "Shodan",
+    "description": "محرك بحث للأجهزة المتصلة بالإنترنت",
+    "category": "تحليل المواقع الإلكترونية",
+    "url": "https://www.shodan.io"
+  }
+]
