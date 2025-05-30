@@ -1,146 +1,2120 @@
 [
   {
-    "name": "Bing Maps",
-    "description": "خدمة خرائط من مايكروسوفت توفر صورًا فضائية وخرائط طرق",
-    "category": "الخرائط وصور الأقمار الصناعية",
-    "url": "https://www.bing.com/maps"
+    "name": "Archive.today",
+    "description": "Archive any webpage, including Facebook and search for archived pages.",
+    "category": "Archiving",
+    "url": "https://archive.today"
   },
   {
-    "name": "Google Earth Pro",
-    "description": "برنامج يقدم صورًا فضائية عالية الدقة مع إمكانية استعراض الصور التاريخية",
-    "category": "الخرائط وصور الأقمار الصناعية",
-    "url": "https://www.google.com/earth/versions/#earth-pro"
+    "name": "Auto Archiver",
+    "description": "Bellingcat's tool to automatically archive social media posts, videos, and images. Free and Open-Source.",
+    "category": "Archiving",
+    "url": "https://github.com/bellingcat/auto-archiver"
   },
   {
-    "name": "DigitalGlobe",
-    "description": "مزود لصور الأقمار الصناعية التجارية عالية الدقة",
-    "category": "الخرائط وصور الأقمار الصناعية",
-    "url": "https://www.maxar.com"
+    "name": "Bellingcat TikTok Hashtag Analysis",
+    "description": "Archive content and metadata from TikTok posts that contain one or more specified hashtags",
+    "category": "Archiving",
+    "url": "https://github.com/bellingcat/tiktok-hashtag-analysis"
   },
   {
-    "name": "EarthExplorer",
-    "description": "منصة من USGS تتيح الوصول إلى بيانات الأقمار الصناعية مثل Landsat",
-    "category": "الخرائط وصور الأقمار الصناعية",
-    "url": "https://earthexplorer.usgs.gov/"
+    "name": "Distill.io",
+    "description": "Distill.io is a website change monitoring tool that allows users to track changes on web pages.",
+    "category": "Archiving",
+    "url": "https://distill.io/"
   },
   {
-    "name": "Yandex Maps",
-    "description": "خدمة خرائط روسية تقدم صورًا فضائية وخرائط طرق",
-    "category": "الخرائط وصور الأقمار الصناعية",
-    "url": "https://yandex.com/maps"
+    "name": "Hunchly",
+    "description": "An archiving tool that tracks online activities and preserves essential information about the web pages researchers visit.",
+    "category": "Archiving",
+    "url": "https://www.hunch.ly/"
   },
   {
-    "name": "Wikimapia",
-    "description": "مشروع تعاوني يدمج خرائط Google مع معلومات موسوعية",
-    "category": "الخرائط وصور الأقمار الصناعية",
-    "url": "http://wikimapia.org"
+    "name": "Instant Data Scraper",
+    "description": "Browser extension for simple web scraping, with table output.",
+    "category": "Archiving",
+    "url": "https://webrobots.io/instantdata/"
   },
   {
-    "name": "ExifTool",
-    "description": "أداة لاستخراج وتعديل البيانات الوصفية من الملفات",
-    "category": "التحقق من الصور والفيديوهات",
-    "url": "https://exiftool.org"
+    "name": "Wayback Machine",
+    "description": "The Internet Archive's Wayback Machine lets users view and archive web pages, aiding in historical research and digital preservation.",
+    "category": "Archiving",
+    "url": "https://web.archive.org/"
   },
   {
-    "name": "TinEye",
-    "description": "محرك بحث للصور يمكنه العثور على نسخ مختلفة من صورة معينة",
-    "category": "التحقق من الصور والفيديوهات",
-    "url": "https://tineye.com"
+    "name": "Lumen",
+    "description": "A research project collecting and publishing legal takedown notices for online content transparency",
+    "category": "Archiving",
+    "url": "https://lumendatabase.org/"
   },
   {
-    "name": "xIFr",
-    "description": "أداة لتحليل بيانات EXIF من الصور",
-    "category": "التحقق من الصور والفيديوهات",
-    "url": "https://29a.ch/photo-forensics/#xif"
+    "name": "Web Archives",
+    "description": "A browser extension to view archived and cached versions of a website on multiple archiving sites.",
+    "category": "Archiving",
+    "url": "https://apps.apple.com/us/app/web-archives-for-safari/id1603181853?platform=mac"
   },
   {
-    "name": "Amnesty YouTube DataViewer",
-    "description": "يستخرج الطابع الزمني من فيديوهات يوتيوب",
-    "category": "التحقق من الصور والفيديوهات",
-    "url": "https://citizenevidence.amnestyusa.org"
+    "name": "527 Explorer",
+    "description": "ProPublica's 527 Explorer is a database that allows users to examine the finances of organizations known as 527s in the United States, which can raise unlimited sums for political purposes.",
+    "category": "Companies & Finance",
+    "url": "https://projects.propublica.org/527-explorer/"
   },
   {
-    "name": "Twitter Advanced Search",
-    "description": "أداة بحث متقدم لتويتر",
-    "category": "وسائل التواصل الاجتماعي",
-    "url": "https://twitter.com/search-advanced"
+    "name": "China-related resources",
+    "description": "Resources for research on companies in China.",
+    "category": "Companies & Finance",
+    "url": "https://bellingcat.gitbook.io/toolkit/more/all-tools/china-related-resources"
   },
   {
-    "name": "TGStat",
-    "description": "تحليلات لقنوات ومجموعات تيليجرام",
-    "category": "وسائل التواصل الاجتماعي",
-    "url": "https://tgstat.com"
+    "name": "Companies House",
+    "description": "Search companies and individuals in the United Kingdom and Gibraltar.",
+    "category": "Companies & Finance",
+    "url": "https://find-and-update.company-information.service.gov.uk/"
   },
   {
-    "name": "WhatsMyName",
-    "description": "يبحث عن أسماء المستخدمين عبر مواقع متعددة",
-    "category": "وسائل التواصل الاجتماعي",
-    "url": "https://whatsmyname.app"
+    "name": "EDGAR",
+    "description": "Database of corporate filings for the US",
+    "category": "Companies & Finance",
+    "url": "https://www.sec.gov/edgar/search/"
   },
   {
-    "name": "Who Posted What?",
-    "description": "أداة للبحث في منشورات فيسبوك",
-    "category": "وسائل التواصل الاجتماعي",
-    "url": "https://whopostedwhat.com"
+    "name": "EDGAR Command Line Interface (edgar-tool)",
+    "description": "Tool for the retrieval of corporate and financial data from SEC's EDGAR (Electronic Data Gathering, Analysis, and Retrieval) database.",
+    "category": "Companies & Finance",
+    "url": "https://pypi.org/project/edgar-tool/"
   },
   {
-    "name": "VesselFinder",
-    "description": "تتبع السفن في الوقت الحقيقي",
-    "category": "النقل والمواصلات",
-    "url": "https://www.vesselfinder.com"
+    "name": "Etherscan",
+    "description": "An explorer that allows researchers to track wallets, transactions and more on the Ethereum blockchain.",
+    "category": "Companies & Finance",
+    "url": "https://etherscan.io/"
   },
   {
-    "name": "FlightRadar24",
-    "description": "تتبع الرحلات الجوية حول العالم",
-    "category": "النقل والمواصلات",
-    "url": "https://www.flightradar24.com"
+    "name": "EU consolidated corporate registers",
+    "description": "Consolidated company registers covering most of the EU, Iceland Liechtenstein and Norway.",
+    "category": "Companies & Finance",
+    "url": "https://e-justice.europa.eu/content_find_a_company-489-en.do"
   },
   {
-    "name": "MarineTraffic",
-    "description": "مراقبة حركة السفن والموانئ",
-    "category": "النقل والمواصلات",
-    "url": "https://www.marinetraffic.com"
+    "name": "Global Suppliers Online",
+    "description": "A site dedicated to connect suppliers and buyers of goods from all over the world.",
+    "category": "Companies & Finance",
+    "url": "https://www.globalsuppliersonline.com/"
+  },
+  {
+    "name": "ICIJ Offshore Leaks Database",
+    "description": "Find out who’s behind more than 810k offshore companies, foundations and trusts from the Panama Papers, the Offshore Leaks, the Bahamas Leaks and the Paradise Papers investigations.",
+    "category": "Companies & Finance",
+    "url": "http://offshoreleaks.icij.org/"
+  },
+  {
+    "name": "ImportGenius",
+    "description": "Commercial supplier of shipment data for 19 countries.",
+    "category": "Companies & Finance",
+    "url": "https://www.importgenius.com/"
+  },
+  {
+    "name": "ImportYeti",
+    "description": "Search 60 million US customs sea shipment records, find company suppliers.",
+    "category": "Companies & Finance",
+    "url": "https://www.importyeti.com/"
+  },
+  {
+    "name": "LittleSis",
+    "description": "Connects dots between influential / wealthy individuals in (mostly US) politics and business.",
+    "category": "Companies & Finance",
+    "url": "https://littlesis.org/database"
+  },
+  {
+    "name": "Lumen",
+    "description": "A research project collecting and publishing legal takedown notices for online content transparency",
+    "category": "Companies & Finance",
+    "url": "https://lumendatabase.org/"
+  },
+  {
+    "name": "North Data",
+    "description": "Search for people and companies in EU corporate and trade registers + visualize relationships",
+    "category": "Companies & Finance",
+    "url": "https://northdata.com"
+  },
+  {
+    "name": "OCCRP Aleph",
+    "description": "Aleph offers a way to research sanctions lists, corporate registries, leaks, and more",
+    "category": "Companies & Finance",
+    "url": "https://aleph.occrp.org/"
+  },
+  {
+    "name": "Open Ownership",
+    "description": "Links to beneficial ownership registers.",
+    "category": "Companies & Finance",
+    "url": "https://www.openownership.org/en/"
+  },
+  {
+    "name": "OpenCorporates",
+    "description": "Comprehensive repository of company registries around the world",
+    "category": "Companies & Finance",
+    "url": "https://opencorporates.com/"
+  },
+  {
+    "name": "OpenSanctions",
+    "description": "Open-source international database of sanctions data, persons of interest and politically exposed persons.",
+    "category": "Companies & Finance",
+    "url": "https://www.opensanctions.org/"
+  },
+  {
+    "name": "OpenSecrets",
+    "description": "Data on campaign finance, lobbying, and spending in U.S. politics",
+    "category": "Companies & Finance",
+    "url": "https://www.opensecrets.org/"
+  },
+  {
+    "name": "Osint Tools Map",
+    "description": "An interactive worldwide map, showcasing business registries, court records, and other publicly available information to aid OSINT investigations and research.",
+    "category": "Companies & Finance",
+    "url": "https://cybdetective.com/osintmap/"
+  },
+  {
+    "name": "RuPEP",
+    "description": "Online database of politically exposed persons in Russia, Belarus and Kazakhstan.",
+    "category": "Companies & Finance",
+    "url": "https://rupep.org/en/"
+  },
+  {
+    "name": "SanctionsExplorer",
+    "description": "A comprehensive database of current and historical OFAC/UN/EU sanctions",
+    "category": "Companies & Finance",
+    "url": "https://sanctionsexplorer.org/"
+  },
+  {
+    "name": "UN Comtrade Database",
+    "description": "United Nations free database of global trade.",
+    "category": "Companies & Finance",
+    "url": "https://comtradeplus.un.org/"
+  },
+  {
+    "name": "Wikipedia list of registers",
+    "description": "Wikipedia list of official business registers around the world.",
+    "category": "Companies & Finance",
+    "url": "https://en.wikipedia.org/wiki/List_of_official_business_registers"
+  },
+  {
+    "name": "ACLED (Armed Conflict Location & Event Data Project)",
+    "description": "ACLED provides data and analysis on political violence and protest around the world, facilitating research, policy making, and journalistic reporting.",
+    "category": "Conflict",
+    "url": "https://acleddata.com/"
+  },
+  {
+    "name": "Bulletpicker.com",
+    "description": "Bulletpicker.com is a collection of ammunition guidebooks and manuals from several different armed forces.",
+    "category": "Conflict",
+    "url": "https://www.bulletpicker.com/index.html"
+  },
+  {
+    "name": "CAT UXO",
+    "description": "A repository for professionals working in the explosive ordnance disposal (EOD) space.",
+    "category": "Conflict",
+    "url": "https://cat-uxo.com/"
+  },
+  {
+    "name": "LiveUAMap",
+    "description": "LiveUAMap is a mapping tool that provides up-to-date information on global geopolitical events, conflicts, and crises.",
+    "category": "Conflict",
+    "url": "https://liveuamap.com/"
+  },
+  {
+    "name": "Open Source Munitions Portal",
+    "description": "A tool for researchers, journalists and practitioners trying to learn more about munitions and their use and impact in conflict.",
+    "category": "Conflict",
+    "url": "https://osmp.airwars.org/"
+  },
+  {
+    "name": "Atlos",
+    "description": "ATLOS is a platform for collaborative and large-scale open source investigations.",
+    "category": "Data Organization & Analysis",
+    "url": "https://www.atlos.org/"
+  },
+  {
+    "name": "Blender",
+    "description": "Blender is an open-source 3D creation suite supporting the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing, and motion tracking, even video editing.",
+    "category": "Data Organization & Analysis",
+    "url": "https://www.blender.org/"
+  },
+  {
+    "name": "Datawrapper",
+    "description": "A tool for creating interactive charts, maps, and tables from your data, offering a user-friendly interface for visualizing information.",
+    "category": "Data Organization & Analysis",
+    "url": "https://www.datawrapper.de/"
+  },
+  {
+    "name": "Gephi",
+    "description": "Open-source network analysis and visualization software",
+    "category": "Data Organization & Analysis",
+    "url": "https://gephi.org"
+  },
+  {
+    "name": "Logseq",
+    "description": "Logseq is an open-source knowledge management tool that enables users to organize their notes, tasks, and projects.",
+    "category": "Data Organization & Analysis",
+    "url": "https://logseq.com/"
+  },
+  {
+    "name": "Maltego Graph",
+    "description": "Maltego Graph is an investigation platform that combines two things at once: (1) It acts as a search tool, and (2) It creates a graph establishing links between data you uncover from your search.",
+    "category": "Data Organization & Analysis",
+    "url": "https://www.maltego.com/"
+  },
+  {
+    "name": "Obsidian",
+    "description": "A knowledge management and note-taking app with extensive customization options.",
+    "category": "Data Organization & Analysis",
+    "url": "https://obsidian.md/"
+  },
+  {
+    "name": "Pinpoint",
+    "description": "A tool by Google to catalogue uploaded documents and files, providing OCR, indexing, and other services. Full access only granted to journalists, academic researchers and university students.",
+    "category": "Data Organization & Analysis",
+    "url": "https://journaliststudio.google.com/pinpoint/about"
+  },
+  {
+    "name": "QGIS",
+    "description": "QGIS is a free Open Source Geographic Information System (GIS).",
+    "category": "Data Organization & Analysis",
+    "url": "https://www.qgis.org"
+  },
+  {
+    "name": "RAWGraphs",
+    "description": "RAWGraphs is an open-source data visualization tool designed for non-technical users, enabling the creation of customizable, editable charts without coding skills.",
+    "category": "Data Organization & Analysis",
+    "url": "https://app.rawgraphs.io/"
+  },
+  {
+    "name": "Time.Graphics",
+    "description": "A tool for creating, visualizing, and managing timelines online.",
+    "category": "Data Organization & Analysis",
+    "url": "https://time.graphics"
+  },
+  {
+    "name": "AllTrails",
+    "description": "AllTrails.com is a tool for discovering hiking, biking, and running trails worldwide, providing detailed trail maps, user reviews, and navigation support for outdoor enthusiasts.",
+    "category": "Environment & Wildlife",
+    "url": "https://www.alltrails.com/"
+  },
+  {
+    "name": "Amazonia Socio Ambiental",
+    "description": "Amazon rainforest maps and shapefiles of natural protected areas, concessions, indigenous territories, oil, mining, roads, fires, deforestation in bolivia, brazil, colombia, ecuador, guyanas and suriname, peru, venezuela",
+    "category": "Environment & Wildlife",
+    "url": "https://www.amazoniasocioambiental.org/en/"
+  },
+  {
+    "name": "Aquaduct Water Risk Atlas",
+    "description": "Water and drought risks mapped, globally.",
+    "category": "Environment & Wildlife",
+    "url": "https://wri.org/applications/aqueduct/water-risk-atlas/#/?advanced=false\\&basemap=hydro\\&indicator=bwd\\_cat\\&lat=40.979898069620155\\&lng=13.293457031250002\\&mapMode=view\\&month=1\\&opacity=0.5\\&ponderation=DEF\\&predefined=false\\&projection=absolute\\&scenario=optimistic\\&scope=baseline\\&timeScale=annual\\&year=baseline\\&zoom=5"
+  },
+  {
+    "name": "BirdNet",
+    "description": "Identify bird sounds - find bird sounds on a global map.",
+    "category": "Environment & Wildlife",
+    "url": "https://birdnet.cornell.edu/map"
+  },
+  {
+    "name": "CITES Trade Database",
+    "description": "Around 23 million records of trade in wildlife since 1975.",
+    "category": "Environment & Wildlife",
+    "url": "https://trade.cites.org/"
+  },
+  {
+    "name": "CryO Tools",
+    "description": "Scientific tools for investigating the cryosphere (areas with snow & ice)",
+    "category": "Environment & Wildlife",
+    "url": "https://cryo-tools.org/"
+  },
+  {
+    "name": "Environmental Justice Atlas",
+    "description": "Map of environmental-related conflict globally",
+    "category": "Environment & Wildlife",
+    "url": "https://ejatlas.org/"
+  },
+  {
+    "name": "Global Fishing Watch Map",
+    "description": "The Global Fishing Watch Map is a digital platform for investigating fishing activities worldwide by utilising satellite and AIS data.",
+    "category": "Environment & Wildlife",
+    "url": "https://globalfishingwatch.org/map"
+  },
+  {
+    "name": "Global Forest Watch",
+    "description": "It helps to detect changes in forest cover (i.e., to track deforestation), fires, land use, and more. It also includes Global Fire Watch (VIRSS data)",
+    "category": "Environment & Wildlife",
+    "url": "https://www.globalforestwatch.org/"
+  },
+  {
+    "name": "Global Monitoring System - ECOSOLVE",
+    "description": "Illicit online wildlife markets data from Brazil, South Africa and Thailand.",
+    "category": "Environment & Wildlife",
+    "url": "https://www.ecosolve.eco/dashboard"
+  },
+  {
+    "name": "Google Flood Hub",
+    "description": "A visual tool to monitor river levels and forecast floods based on AI models developed by Google Research.",
+    "category": "Environment & Wildlife",
+    "url": "https://sites.research.google/floods/"
+  },
+  {
+    "name": "Merlin",
+    "description": "Identify birds (visually), through an app.",
+    "category": "Environment & Wildlife",
+    "url": "https://merlin.allaboutbirds.org/"
+  },
+  {
+    "name": "Movebank",
+    "description": "Platform for animal tracking data.",
+    "category": "Environment & Wildlife",
+    "url": "https://www.movebank.org/"
+  },
+  {
+    "name": "Resource Watch",
+    "description": "A nonprofit platform, still in beta, that provides hundreds of data sets on the state of the planet’s resources and citizens. It is sponsored by the World Resources Institute and other organizations.",
+    "category": "Environment & Wildlife",
+    "url": "https://resourcewatch.org/data/explore"
+  },
+  {
+    "name": "River Runner Global",
+    "description": "Calculate which water stream a drop of rain will follow",
+    "category": "Environment & Wildlife",
+    "url": "https://river-runner-global.samlearner.com/"
+  },
+  {
+    "name": "UNOSAT Analyses",
+    "description": "UNOSAT Analyses is a tool that maps humanitarian emergencies across the globe utilising United Nations Satellite Centre data.",
+    "category": "Environment & Wildlife",
+    "url": "https://unosat.org/products"
+  },
+  {
+    "name": "WildEye",
+    "description": "Tracking tool for data on environmental and wildlife crime cases, including court cases and convictions, across the globe.",
+    "category": "Environment & Wildlife",
+    "url": "https://global.wildeye.oxpeckers.org/"
+  },
+  {
+    "name": "Wildlife Trade Portal",
+    "description": "An open-source tool to search wildlife seizure data worldwide.",
+    "category": "Environment & Wildlife",
+    "url": "https://www.wildlifetradeportal.org/"
+  },
+  {
+    "name": "WildMe & WildBook",
+    "description": "Open source pattern recognition software to identify unique whales, sharks, zebras, jaguars, skunks, fish and much more.",
+    "category": "Environment & Wildlife",
+    "url": "https://wildme.org/#/platforms/bass"
+  },
+  {
+    "name": "World Database Protected Areas",
+    "description": "The most comprehensive global database on terrestrial and marine protected areas.",
+    "category": "Environment & Wildlife",
+    "url": "https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA"
+  },
+  {
+    "name": "GeoHints",
+    "description": "GeoHints is a website that provides information about things like traffic lights, utility poles, bollards etc. for different regions of the world to help geolocate a location.",
+    "category": "Geolocation",
+    "url": "https://geohints.com/"
+  },
+  {
+    "name": "Geolocation Estimation",
+    "description": "A geolocation tool using a deep-learning model to predict the location of an image.",
+    "category": "Geolocation",
+    "url": "https://labs.tib.eu/geoestimation/"
+  },
+  {
+    "name": "GeoNames",
+    "description": "The GeoNames geographical database covers all countries and contains over eleven million place names that are available for download free of charge Extremely useful in Geo Tagging, documentation, and data collection.",
+    "category": "Geolocation",
+    "url": "http://www.geonames.org/"
+  },
+  {
+    "name": "License Plate Maps",
+    "description": "Collection of tools and maps for discerning license plates by country",
+    "category": "Geolocation",
+    "url": "https://bellingcat.gitbook.io/toolkit/more/all-tools/license-plate-maps"
+  },
+  {
+    "name": "MW Geofind",
+    "description": "MW Geofind is a tool designed to help users identify the filming location of YouTube videos, facilitating the exploration of global content from a geographical perspective.",
+    "category": "Geolocation",
+    "url": "https://mattw.io/youtube-geofind/location"
+  },
+  {
+    "name": "Bellingcat OpenStreetMap Search",
+    "description": "A user interface to search OpenStreetMap data for features in proximity to each other.",
+    "category": "Geolocation",
+    "url": "https://osm-search.bellingcat.com/"
+  },
+  {
+    "name": "Photo-Map.RU",
+    "description": "Geotagged VK posts.",
+    "category": "Geolocation",
+    "url": "http://photo-map.ru/"
+  },
+  {
+    "name": "ShadeMap",
+    "description": "ShadeMap is a global simulation of mountain, building & tree shadows for a given date & time. Base data is free, but users can buy 30cm accurate data per sq km for areas of special focus.",
+    "category": "Geolocation",
+    "url": "https://shademap.app"
+  },
+  {
+    "name": "Shadow Finder",
+    "description": "To analyse shadows in source imagery, Shadow Finder maps all points on the earth where a shadow of given length could occur at a given date & time, IF the height of the object casting it is known.",
+    "category": "Geolocation",
+    "url": "https://colab.research.google.com/github/Bellingcat/ShadowFinder/blob/main/ShadowFinderColab.ipynb"
+  },
+  {
+    "name": "ShadowMap",
+    "description": "Global map of 3D buildlings and the shadows they cast at a specific time a day",
+    "category": "Geolocation",
+    "url": "https://app.shadowmap.org/"
   },
   {
     "name": "SunCalc",
-    "description": "يحسب موقع الشمس في وقت معين",
-    "category": "التحقق من التاريخ والوقت",
-    "url": "https://suncalc.org"
+    "description": "Suncalc models the relationship between the date, time of day, the geographic location of a place, and the position of the sun in the sky, together with the length & direction of the shadows it casts.",
+    "category": "Geolocation",
+    "url": "https://www.suncalc.org"
   },
   {
-    "name": "Timeanddate.com",
-    "description": "يوفر معلومات دقيقة عن التوقيت والتقويم",
-    "category": "التحقق من التاريخ والوقت",
-    "url": "https://www.timeanddate.com"
+    "name": "Amazon Rekognition",
+    "description": "Check how similar two faces are",
+    "category": "Facial Recognition",
+    "url": "https://aws.amazon.com/rekognition/"
   },
   {
-    "name": "EXIF.tools",
-    "description": "تحليل بيانات EXIF لتحديد توقيت التقاط الصور",
-    "category": "التحقق من التاريخ والوقت",
-    "url": "https://exif.tools"
+    "name": "Azure AI Video Indexer",
+    "description": "AI video tool for facial detection and other types of insights.",
+    "category": "Facial Recognition",
+    "url": "https://vi.microsoft.com/en-us"
   },
   {
-    "name": "Whois Lookup",
-    "description": "يستخرج معلومات تسجيل النطاقات",
-    "category": "تحليل المواقع الإلكترونية",
-    "url": "https://whois.domaintools.com"
+    "name": "FaceCheck.ID",
+    "description": "A facial recognition search engine that tries to find photos of people that look similar to a person of interest.",
+    "category": "Facial Recognition",
+    "url": "https://facecheck.id/"
   },
   {
-    "name": "What CMS",
-    "description": "يحدد نظام إدارة المحتوى المستخدم في موقع معين",
-    "category": "تحليل المواقع الإلكترونية",
-    "url": "https://whatcms.org"
+    "name": "GFPGAN",
+    "description": "Practical face restoration algorithm for *old photos* or *AI-generated faces*",
+    "category": "Facial Recognition",
+    "url": "https://replicate.com/tencentarc/gfpgan"
   },
   {
-    "name": "BuiltWith",
-    "description": "يحلل تقنيات المواقع الإلكترونية",
-    "category": "تحليل المواقع الإلكترونية",
-    "url": "https://builtwith.com"
+    "name": "PimEyes",
+    "description": "An AI-powered facial recognition reverse image search tool.",
+    "category": "Facial Recognition",
+    "url": "https://pimeyes.com/en"
+  },
+  {
+    "name": "Search4Faces",
+    "description": "Upload a facepic, find similar on VKontakte, Odnoklassniki, TikTok, Clubhouse)",
+    "category": "Facial Recognition",
+    "url": "https://search4faces.com"
+  },
+  {
+    "name": "VFF",
+    "description": "VGG Face Finder (VFF) Engine  Visual Geometry Group and released under the BSD-2 clause. VFF is a web application that serves as a web engine to perform searches for faces over an user-defined image dataset. It is based on the original application created by VGG to perform visual searchers over a large dataset of images from BBC News.",
+    "category": "Facial Recognition",
+    "url": "https://www.robots.ox.ac.uk/~vgg/software/vff/"
+  },
+  {
+    "name": "AmIReal",
+    "description": "Github - GAN detector detects if faces were generated by ThisPersonDoesNotExist",
+    "category": "Misc",
+    "url": "https://seintpl.github.io/AmIReal/"
+  },
+  {
+    "name": "AutoStitch",
+    "description": "Autostitch is a free tool for seamlessly combining multiple photos into a single panoramic image, making it ideal for creating wide-angle photography without needing specialized equipment.",
+    "category": "Misc",
+    "url": "https://mattabrown.github.io/autostitch.html"
+  },
+  {
+    "name": "Cleanup.Pictures",
+    "description": "Web tool for quickly removing objects from an image.",
+    "category": "Misc",
+    "url": "https://cleanup.pictures/"
+  },
+  {
+    "name": "fdupes",
+    "description": "Github - Locating exact matches of duplicate files.",
+    "category": "Misc",
+    "url": "https://github.com/adrianlopezroche/fdupes"
+  },
+  {
+    "name": "Forensically",
+    "description": "A collection of web-based image forensics tools. Can identify fake or doctored images.",
+    "category": "Misc",
+    "url": "https://29a.ch/photo-forensics/#forensic-magnifier"
+  },
+  {
+    "name": "Hugin",
+    "description": "Hugin is a free and open-source panorama photo stitching and HDR (High Dynamic Range imaging) merging software that helps users create seamless panoramic images from multiple photographs.",
+    "category": "Misc",
+    "url": "https://hugin.sourceforge.io/"
+  },
+  {
+    "name": "InVID Verification Plugin",
+    "description": "Verification plugin to help journalists verify images and videos.",
+    "category": "Misc",
+    "url": "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/"
+  },
+  {
+    "name": "IPVM Calculator",
+    "description": "Tool for simulating camera views (for geolocations).",
+    "category": "Misc",
+    "url": "https://calculator.ipvm.com/"
+  },
+  {
+    "name": "PixPlot",
+    "description": "PixPlot is a tool that utilizes machine learning and WebGL to provide an interactive visualization of large image collections, allowing users to explore patterns and outliers within image datasets.",
+    "category": "Misc",
+    "url": "https://github.com/YaleDHLab/pix-plot"
+  },
+  {
+    "name": "PureRef",
+    "description": "Image workspace; lets you arrange images in groups, organize them, etc.",
+    "category": "Misc",
+    "url": "https://www.pureref.com/index.php"
+  },
+  {
+    "name": "VIC",
+    "description": "The VGG Image Classification (VIC) Engine is an open source project developed at the Visual Geometry Group and released under the BSD-2 clause. VIC is a web application that serves as a web engine to perform image classification queries over an user-defined image dataset. It is based on the original application created by VGG to perform visual searchers over a large dataset of images from BBC News.",
+    "category": "Misc",
+    "url": "http://www.robots.ox.ac.uk/~vgg/software/vic/"
+  },
+  {
+    "name": "ExifPurge",
+    "description": "EXIF Purge is a small portable application to remove EXIF metadata from multiple images at once. With the click of a button you can remove the camera, location and other technical information from a batch of photos which is embedded by the camera or the photo editing software.",
+    "category": "Metadata",
+    "url": "http://www.exifpurge.com/"
+  },
+  {
+    "name": "Forensically",
+    "description": "A collection of web-based image forensics tools. Can identify fake or doctored images.",
+    "category": "Metadata",
+    "url": "https://29a.ch/photo-forensics/#forensic-magnifier"
+  },
+  {
+    "name": "FotoForensics",
+    "description": "Image forensics tool.",
+    "category": "Metadata",
+    "url": "http://fotoforensics.com/"
+  },
+  {
+    "name": "InVID Verification Plugin",
+    "description": "Verification plugin to help journalists verify images and videos.",
+    "category": "Metadata",
+    "url": "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/"
+  },
+  {
+    "name": "Irfanview",
+    "description": "Windows-based software to extract metadata.",
+    "category": "Metadata",
+    "url": "http://irfanview.com/"
+  },
+  {
+    "name": "jhead",
+    "description": "Remove EXIF/metadata.",
+    "category": "Metadata",
+    "url": "https://www.sentex.ca/~mwandel/jhead/"
+  },
+  {
+    "name": "Jimpl",
+    "description": "Online EXIF data viewer",
+    "category": "Metadata",
+    "url": "https://jimpl.com/"
+  },
+  {
+    "name": "metadata2go",
+    "description": "Check metadata for both photos and videos online.",
+    "category": "Metadata",
+    "url": "https://www.metadata2go.com/"
+  },
+  {
+    "name": "xIFr",
+    "description": "A Firefox add-on for extracting EXIF metadata by right-clicking an image.",
+    "category": "Metadata",
+    "url": "https://github.com/StigNygaard/xIFr"
+  },
+  {
+    "name": "Google Lens",
+    "description": "Google Lens is an image recognition tool which can be used to identify locations or objects in photographs.",
+    "category": "Reverse Image Search",
+    "url": "https://lens.google/"
+  },
+  {
+    "name": "InVID Verification Plugin",
+    "description": "Verification plugin to help journalists verify images and videos.",
+    "category": "Reverse Image Search",
+    "url": "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/"
+  },
+  {
+    "name": "RootAbout",
+    "description": "Reverse search images on the Internet Archive",
+    "category": "Reverse Image Search",
+    "url": "http://rootabout.com/"
+  },
+  {
+    "name": "Search by Image",
+    "description": "A browser extension to reverse search an image on multiple search engines.",
+    "category": "Reverse Image Search",
+    "url": "https://addons.opera.com/extensions/details/search-by-image/"
+  },
+  {
+    "name": "TinEye",
+    "description": "TinEye is a search engine that allows the user to search using images (reverse image search).",
+    "category": "Reverse Image Search",
+    "url": "https://tineye.com/"
+  },
+  {
+    "name": "VISE",
+    "description": "(VGG Image Search Engine) This standalone application can be used to do a reverse image search on a large collection of images.",
+    "category": "Reverse Image Search",
+    "url": "http://robots.ox.ac.uk/~vgg/software/vise"
+  },
+  {
+    "name": "About Maps and Satellites",
+    "description": "A guide to using map and satellite tools.",
+    "category": "Maps",
+    "url": "https://bellingcat.gitbook.io/toolkit/more/all-tools/about-maps-and-satellites"
+  },
+  {
+    "name": "Apple Maps",
+    "description": "Apple Maps is a digital mapping service with detailed, interactive maps, satellite imagery, and location-based information.",
+    "category": "Maps",
+    "url": "https://www.apple.com/maps/"
+  },
+  {
+    "name": "Baidu Maps",
+    "description": "Baidu’s mapping service offering satellite imagery, street maps, and streetview (“Panorama” - zh:百度全景).",
+    "category": "Maps",
+    "url": "http://map.baidu.com/"
+  },
+  {
+    "name": "Bing Maps",
+    "description": "Bing Maps is a web mapping service provided by Microsoft that offers detailed geographical information and tools for route planning, location search, and satellite imagery.",
+    "category": "Maps",
+    "url": "https://www.bing.com/maps/"
+  },
+  {
+    "name": "Convert Geographic Units",
+    "description": "A tool that converts various geographic coordinates to support diverse mapping and spatial analysis needs.",
+    "category": "Maps",
+    "url": "http://rcn.montana.edu/resources/Converter.aspx"
+  },
+  {
+    "name": "F4Map",
+    "description": "F4Map is an interactive 3D map visualization tool that provides detailed rendering of urban landscapes and geographical features.",
+    "category": "Maps",
+    "url": "https://demo.f4map.com"
+  },
+  {
+    "name": "Gaode Maps",
+    "description": "Popular mapping service in mainland China. When it comes to navigation for drivers and individuals using public transportation, Gaode Maps seems to be a better job than Baidu Maps.",
+    "category": "Maps",
+    "url": "https://gaode.com/"
+  },
+  {
+    "name": "Gjirafa",
+    "description": "Mapping service for Albania (specially Kosovo)",
+    "category": "Maps",
+    "url": "https://gjirafa.biz/"
+  },
+  {
+    "name": "Global Fishing Watch Map",
+    "description": "The Global Fishing Watch Map is a digital platform for investigating fishing activities worldwide by utilising satellite and AIS data.",
+    "category": "Maps",
+    "url": "https://globalfishingwatch.org/map"
+  },
+  {
+    "name": "Global Forest Watch",
+    "description": "It helps to detect changes in forest cover (i.e., to track deforestation), fires, land use, and more. It also includes Global Fire Watch (VIRSS data)",
+    "category": "Maps",
+    "url": "https://www.globalforestwatch.org/"
+  },
+  {
+    "name": "Google Earth Pro",
+    "description": "Google Earth is a geospatial tool that provides detailed, global satellite imagery, maps, 3D terrain models, and the ability to explore geographic data interactively.",
+    "category": "Maps",
+    "url": "https://www.google.com/earth/about/versions/"
+  },
+  {
+    "name": "Google Maps",
+    "description": "Google Maps provides mapping information, satellite imagery and Google Street View imagery including historical Street View images.",
+    "category": "Maps",
+    "url": "https://www.google.com/maps"
+  },
+  {
+    "name": "GovMap",
+    "description": "GovMap provides an interactive map of Israel, offering users a wide range of data including property boundaries, planning information, and infrastructure details.",
+    "category": "Maps",
+    "url": "https://www.govmap.gov.il/"
+  },
+  {
+    "name": "Hitta.se",
+    "description": "Mapping service for Sweden",
+    "category": "Maps",
+    "url": "https://www.hitta.se/"
+  },
+  {
+    "name": "KartaView",
+    "description": "KartaView is a crowdsourced, street-level imagery platform that allows users to contribute, view, and use photos to enhance and validate map data.",
+    "category": "Maps",
+    "url": "https://kartaview.org/map"
+  },
+  {
+    "name": "LiveUAMap",
+    "description": "LiveUAMap is a mapping tool that provides up-to-date information on global geopolitical events, conflicts, and crises.",
+    "category": "Maps",
+    "url": "https://liveuamap.com/"
+  },
+  {
+    "name": "MapChecking",
+    "description": "This tool helps you estimate and fact-check the maximum number of people standing in a given area.",
+    "category": "Maps",
+    "url": "https://www.mapchecking.com/"
+  },
+  {
+    "name": "Mapillary",
+    "description": "Mapillary is a crowdsourced street-level imagery platform.",
+    "category": "Maps",
+    "url": "https://www.mapillary.com/"
+  },
+  {
+    "name": "MapSwitcher",
+    "description": "Chrome extension switches  between online map apps, maintaining (as far as possible) the map centre, zoom level, & directions of the source map.",
+    "category": "Maps",
+    "url": "https://github.com/david-r-edgar/MapSwitcher"
+  },
+  {
+    "name": "mapy.cz",
+    "description": "Mapping service for Czechia",
+    "category": "Maps",
+    "url": "http://mapy.cz"
+  },
+  {
+    "name": "Maritime Awareness Project",
+    "description": "South China Sea maps with oil and gas fields, fishing areas, air defense zones and administrative, claimed, disputed zones, submarine data cables.",
+    "category": "Maps",
+    "url": "https://map.nbr.org/interactivemap/"
+  },
+  {
+    "name": "NASA FIRMS",
+    "description": "Displays a world map overlaid with infra-red data from one or more satellites, some, but not all of which may represent heat from fires and explosions.",
+    "category": "Maps",
+    "url": "https://firms2.modaps.eosdis.nasa.gov/map/"
+  },
+  {
+    "name": "OpenInfraMap",
+    "description": "Power lines, telecoms, solar, oil, gas & water infrastructure mapped globally.",
+    "category": "Maps",
+    "url": "https://openinframap.org/#2/26/12"
+  },
+  {
+    "name": "OpenSeaMap",
+    "description": "Sea map of borders, special zones, shipping lanes, with overlays of MarineTraffic and other sources",
+    "category": "Maps",
+    "url": "https://map.openseamap.org/"
+  },
+  {
+    "name": "OpenStreetMap",
+    "description": "OpenStreetMap is a collaborative project to create a free editable map of the world.",
+    "category": "Maps",
+    "url": "http://openstreetmap.org/"
+  },
+  {
+    "name": "Bellingcat OpenStreetMap Search",
+    "description": "A user interface to search OpenStreetMap data for features in proximity to each other.",
+    "category": "Maps",
+    "url": "https://osm-search.bellingcat.com/"
+  },
+  {
+    "name": "Overpass Turbo",
+    "description": "Overpass Turbo is a web-based tool for querying and visualizing OpenStreetMap crowd sourced data, aiding in extracting specific information like locations of amenities e.g.hospitals.",
+    "category": "Maps",
+    "url": "https://overpass-turbo.eu/"
+  },
+  {
+    "name": "PeakVisor",
+    "description": "Dual window views for any global location: (1) a 2-D map & (2) a 3-D rendered terrain model, with photo fitting, shade/slope mapping, sun trails & weather data. In active development for OS research.",
+    "category": "Maps",
+    "url": "https://peakvisor.com"
+  },
+  {
+    "name": "QGIS",
+    "description": "QGIS is a free Open Source Geographic Information System (GIS).",
+    "category": "Maps",
+    "url": "https://www.qgis.org"
+  },
+  {
+    "name": "Quick geolocation search",
+    "description": "A tool that brings several maps into one place for easy location search.",
+    "category": "Maps",
+    "url": "https://cybdetective.com/quickgeolocationsearch.html"
+  },
+  {
+    "name": "satellites.pro",
+    "description": "Satellites.pro allows open source researchers to quickly switch between several free satellite imagery and mapping services.",
+    "category": "Maps",
+    "url": "https://satellites.pro/"
+  },
+  {
+    "name": "ShadeMap",
+    "description": "ShadeMap is a global simulation of mountain, building & tree shadows for a given date & time. Base data is free, but users can buy 30cm accurate data per sq km for areas of special focus.",
+    "category": "Maps",
+    "url": "https://shademap.app"
+  },
+  {
+    "name": "ShadowMap",
+    "description": "Global map of 3D buildlings and the shadows they cast at a specific time a day",
+    "category": "Maps",
+    "url": "https://app.shadowmap.org/"
+  },
+  {
+    "name": "Strava",
+    "description": "Social media fitness app with exercise map based on users' GPS data.",
+    "category": "Maps",
+    "url": "https://www.strava.com"
+  },
+  {
+    "name": "Tencent Maps",
+    "description": "Tencent Maps (formerly SOSO Maps) is a desktop and web mapping service application and technology provided by Chinese company Tencent, offering satellite imagery, street maps, street view (coverage) and historical view perspectives.",
+    "category": "Maps",
+    "url": "http://map.qq.com/"
+  },
+  {
+    "name": "Topotijdreis.nl",
+    "description": "Over 200 years of maps and topography from the Netherlands.",
+    "category": "Maps",
+    "url": "http://topotijdreis.nl"
+  },
+  {
+    "name": "UTM grid zones",
+    "description": "An overview of the Universal Transverse Mercator coordinate system.",
+    "category": "Maps",
+    "url": "http://dmap.co.uk/utmworld.htm"
+  },
+  {
+    "name": "what3words",
+    "description": "A proprietary geocode system which identifies any location on the surface of the earth to a resolution of 3 metres. The identifier is a unique combination of three words, available in 60 languagues.",
+    "category": "Maps",
+    "url": "http://what3words.com/"
+  },
+  {
+    "name": "Wikimapia",
+    "description": "Wikimapia is a collaborative mapping project that aims to describe every location on Earth, combining the interactive features of a detailed map with the versatility of a wiki system.",
+    "category": "Maps",
+    "url": "https://wikimapia.org/"
+  },
+  {
+    "name": "Yandex Maps",
+    "description": "A platform offering detailed maps, satellite imagery, street views (static & sometimes dynamic imagery, including aerial views). Often the best available data on Russia & surrounding regions.",
+    "category": "Maps",
+    "url": "https://yandex.com/maps/"
+  },
+  {
+    "name": "About Maps and Satellites",
+    "description": "A guide to using map and satellite tools.",
+    "category": "Satellite Imagery",
+    "url": "https://bellingcat.gitbook.io/toolkit/more/all-tools/about-maps-and-satellites"
+  },
+  {
+    "name": "Baidu Maps",
+    "description": "Baidu’s mapping service offering satellite imagery, street maps, and streetview (“Panorama” - zh:百度全景).",
+    "category": "Satellite Imagery",
+    "url": "http://map.baidu.com/"
+  },
+  {
+    "name": "Bing Maps",
+    "description": "Bing Maps is a web mapping service provided by Microsoft that offers detailed geographical information and tools for route planning, location search, and satellite imagery.",
+    "category": "Satellite Imagery",
+    "url": "https://www.bing.com/maps/"
+  },
+  {
+    "name": "The European Space Agency (ESA) - Earth Online",
+    "description": "The ESA's Earth Online product offers a portal for accessing satellite imagery and environmental data, supporting a range of applications from climate monitoring to natural disaster assessment.",
+    "category": "Satellite Imagery",
+    "url": "https://earth.esa.int/eogateway/tools"
+  },
+  {
+    "name": "EOS Landviewer",
+    "description": "EOS Landviewer provides free services for up to 10 images. More images and analysis are available to journalists at a discount. Contact: Artem Seredyuk artem.seredyuk@eosda.com. EOS is in the process of developing a service provisionally called EOS Media that will be providing free images and analysis of major natural disasters.",
+    "category": "Satellite Imagery",
+    "url": "http://eos.com/landviewer"
+  },
+  {
+    "name": "Google Earth Engine",
+    "description": "Google Earth Engine is a platform for environmental monitoring and analysis through satellite imagery and geospatial data.",
+    "category": "Satellite Imagery",
+    "url": "https://code.earthengine.google.com/"
+  },
+  {
+    "name": "Google Earth Pro",
+    "description": "Google Earth is a geospatial tool that provides detailed, global satellite imagery, maps, 3D terrain models, and the ability to explore geographic data interactively.",
+    "category": "Satellite Imagery",
+    "url": "https://www.google.com/earth/about/versions/"
+  },
+  {
+    "name": "Google Maps",
+    "description": "Google Maps provides mapping information, satellite imagery and Google Street View imagery including historical Street View images.",
+    "category": "Satellite Imagery",
+    "url": "https://www.google.com/maps"
+  },
+  {
+    "name": "GovMap",
+    "description": "GovMap provides an interactive map of Israel, offering users a wide range of data including property boundaries, planning information, and infrastructure details.",
+    "category": "Satellite Imagery",
+    "url": "https://www.govmap.gov.il/"
+  },
+  {
+    "name": "HERE WeGo",
+    "description": "Sattelite imagery tool that can serve as an alternative to Google or Apple Maps.",
+    "category": "Satellite Imagery",
+    "url": "https://wego.here.com/"
+  },
+  {
+    "name": "Index Database",
+    "description": "A database of remote sensing indices and satellite imaging sensors",
+    "category": "Satellite Imagery",
+    "url": "https://www.indexdatabase.de/"
+  },
+  {
+    "name": "KakaoMap",
+    "description": "Mapping service for South Korea",
+    "category": "Satellite Imagery",
+    "url": "https://map.kakao.com"
+  },
+  {
+    "name": "Mapa.sk",
+    "description": "Mapping service for Slovakia",
+    "category": "Satellite Imagery",
+    "url": "http://mapa.sk/"
+  },
+  {
+    "name": "Mappy",
+    "description": "Mapping service (and streetview in a couple of French cities \\[double check this!])",
+    "category": "Satellite Imagery",
+    "url": "http://en.mappy.com/"
+  },
+  {
+    "name": "MapSwitcher",
+    "description": "Chrome extension switches  between online map apps, maintaining (as far as possible) the map centre, zoom level, & directions of the source map.",
+    "category": "Satellite Imagery",
+    "url": "https://github.com/david-r-edgar/MapSwitcher"
+  },
+  {
+    "name": "NASA Worldview",
+    "description": "NASA Worldview is an online tool for visualizing and downloading near real-time satellite imagery and scientific data of Earth's atmosphere, land, and oceans.",
+    "category": "Satellite Imagery",
+    "url": "https://worldview.earthdata.nasa.gov/"
+  },
+  {
+    "name": "OrbTrack",
+    "description": "Predicts & describes the position & path of >10K satellites in Earth orbit, relative to points on the earth's surface input by the user, for 5 days ahead, + International Space Station video feed.",
+    "category": "Satellite Imagery",
+    "url": "https://www.orbtrack.org"
+  },
+  {
+    "name": "Planet Labs",
+    "description": "Planet Labs PBC is an American optical satellite imagery company that sells access to imagery.",
+    "category": "Satellite Imagery",
+    "url": "https://www.planet.com/"
+  },
+  {
+    "name": "QGIS",
+    "description": "QGIS is a free Open Source Geographic Information System (GIS).",
+    "category": "Satellite Imagery",
+    "url": "https://www.qgis.org"
+  },
+  {
+    "name": "Radar Interference Tracker (RIT)",
+    "description": "Bellingcat's radar interference tracker can be used to locate and monitor active military radar systems.",
+    "category": "Satellite Imagery",
+    "url": "https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker#lon=49.9507;lat=26.6056;zoom=4;"
+  },
+  {
+    "name": "satellites.pro",
+    "description": "Satellites.pro allows open source researchers to quickly switch between several free satellite imagery and mapping services.",
+    "category": "Satellite Imagery",
+    "url": "https://satellites.pro/"
+  },
+  {
+    "name": "Copernicus Browser (formerly Sentinel Hub Playground, EO Browser)",
+    "description": "A user-friendly platform for visualising Sentinel data, updated every 5-10 days with new imagery. The interface includes a number of features, including built-in indices and a timelapse tool.",
+    "category": "Satellite Imagery",
+    "url": "https://browser.dataspace.copernicus.eu/"
+  },
+  {
+    "name": "SkyFi",
+    "description": "SkyFi is used to purchase commercial satellite imagery and task (order the collection of images) satellites without a subscription.",
+    "category": "Satellite Imagery",
+    "url": "https://skyfi.com/"
+  },
+  {
+    "name": "Soar.earth",
+    "description": "Aerial, satellite and drone imagery on a global map.",
+    "category": "Satellite Imagery",
+    "url": "https://soar.earth/?pos=-24.806025673047216%2C112.37019712776902%2C7"
+  },
+  {
+    "name": "Tencent Maps",
+    "description": "Tencent Maps (formerly SOSO Maps) is a desktop and web mapping service application and technology provided by Chinese company Tencent, offering satellite imagery, street maps, street view (coverage) and historical view perspectives.",
+    "category": "Satellite Imagery",
+    "url": "http://map.qq.com/"
+  },
+  {
+    "name": "Umbra Space",
+    "description": "Umbra is an American synthetic aperture radar (SAR) satellite imaging company that sells on-demand taskings for satellite imagery.",
+    "category": "Satellite Imagery",
+    "url": "https://umbra.space/"
+  },
+  {
+    "name": "what3words",
+    "description": "A proprietary geocode system which identifies any location on the surface of the earth to a resolution of 3 metres. The identifier is a unique combination of three words, available in 60 languagues.",
+    "category": "Satellite Imagery",
+    "url": "http://what3words.com/"
+  },
+  {
+    "name": "Yandex Maps",
+    "description": "A platform offering detailed maps, satellite imagery, street views (static & sometimes dynamic imagery, including aerial views). Often the best available data on Russia & surrounding regions.",
+    "category": "Satellite Imagery",
+    "url": "https://yandex.com/maps/"
+  },
+  {
+    "name": "About Maps and Satellites",
+    "description": "A guide to using map and satellite tools.",
+    "category": "Street View",
+    "url": "https://bellingcat.gitbook.io/toolkit/more/all-tools/about-maps-and-satellites"
+  },
+  {
+    "name": "Baidu Maps",
+    "description": "Baidu’s mapping service offering satellite imagery, street maps, and streetview (“Panorama” - zh:百度全景).",
+    "category": "Street View",
+    "url": "http://map.baidu.com/"
+  },
+  {
+    "name": "Bing Maps",
+    "description": "Bing Maps is a web mapping service provided by Microsoft that offers detailed geographical information and tools for route planning, location search, and satellite imagery.",
+    "category": "Street View",
+    "url": "https://www.bing.com/maps/"
+  },
+  {
+    "name": "Carte.ma",
+    "description": "Mapping/streetview service for Morocco",
+    "category": "Street View",
+    "url": "http://carte.ma/"
+  },
+  {
+    "name": "Geograph",
+    "description": "Georeferenced images.",
+    "category": "Street View",
+    "url": "http://geograph.org/"
+  },
+  {
+    "name": "GeoHints",
+    "description": "GeoHints is a website that provides information about things like traffic lights, utility poles, bollards etc. for different regions of the world to help geolocate a location.",
+    "category": "Street View",
+    "url": "https://geohints.com/"
+  },
+  {
+    "name": "Google Earth Pro",
+    "description": "Google Earth is a geospatial tool that provides detailed, global satellite imagery, maps, 3D terrain models, and the ability to explore geographic data interactively.",
+    "category": "Street View",
+    "url": "https://www.google.com/earth/about/versions/"
+  },
+  {
+    "name": "Google Maps",
+    "description": "Google Maps provides mapping information, satellite imagery and Google Street View imagery including historical Street View images.",
+    "category": "Street View",
+    "url": "https://www.google.com/maps"
+  },
+  {
+    "name": "KartaView",
+    "description": "KartaView is a crowdsourced, street-level imagery platform that allows users to contribute, view, and use photos to enhance and validate map data.",
+    "category": "Street View",
+    "url": "https://kartaview.org/map"
+  },
+  {
+    "name": "Mapillary",
+    "description": "Mapillary is a crowdsourced street-level imagery platform.",
+    "category": "Street View",
+    "url": "https://www.mapillary.com/"
+  },
+  {
+    "name": "MapSwitcher",
+    "description": "Chrome extension switches  between online map apps, maintaining (as far as possible) the map centre, zoom level, & directions of the source map.",
+    "category": "Street View",
+    "url": "https://github.com/david-r-edgar/MapSwitcher"
+  },
+  {
+    "name": "Photo-Map.RU",
+    "description": "Geotagged VK posts.",
+    "category": "Street View",
+    "url": "http://photo-map.ru/"
+  },
+  {
+    "name": "Tencent Maps",
+    "description": "Tencent Maps (formerly SOSO Maps) is a desktop and web mapping service application and technology provided by Chinese company Tencent, offering satellite imagery, street maps, street view (coverage) and historical view perspectives.",
+    "category": "Street View",
+    "url": "http://map.qq.com/"
+  },
+  {
+    "name": "what3words",
+    "description": "A proprietary geocode system which identifies any location on the surface of the earth to a resolution of 3 metres. The identifier is a unique combination of three words, available in 60 languagues.",
+    "category": "Street View",
+    "url": "http://what3words.com/"
+  },
+  {
+    "name": "Wikimapia",
+    "description": "Wikimapia is a collaborative mapping project that aims to describe every location on Earth, combining the interactive features of a detailed map with the versatility of a wiki system.",
+    "category": "Street View",
+    "url": "https://wikimapia.org/"
+  },
+  {
+    "name": "Yandex Maps",
+    "description": "A platform offering detailed maps, satellite imagery, street views (static & sometimes dynamic imagery, including aerial views). Often the best available data on Russia & surrounding regions.",
+    "category": "Street View",
+    "url": "https://yandex.com/maps/"
+  },
+  {
+    "name": "192.com",
+    "description": "Searching for someone's address in the UK, phone number and who they live with according to electoral rolls.",
+    "category": "People",
+    "url": "http://www.192.com/"
+  },
+  {
+    "name": "Blackbird",
+    "description": "Check usernames and email addresses on websites and social networks",
+    "category": "People",
+    "url": "https://github.com/p1ngul1n0/blackbird"
+  },
+  {
+    "name": "DeHashed",
+    "description": "A platform that maintains a database of compromised credentials, with a newly-launched web domain registration search tool.",
+    "category": "People",
+    "url": "https://bellingcat.gitbook.io/toolkit/more/all-tools/dehashed"
+  },
+  {
+    "name": "DiscordLeaks",
+    "description": "Search hundreds of thousands of messages leaked from 180+ white-supremacist / nazi discord servers.",
+    "category": "People",
+    "url": "https://discordleaks.unicornriot.ninja/discord/server/"
+  },
+  {
+    "name": "Eniro",
+    "description": "Yellow Pages (Swedish Edition)",
+    "category": "People",
+    "url": "https://www.eniro.se/"
+  },
+  {
+    "name": "Epieos",
+    "description": "Checks where an email has been used. Based on Holehe.",
+    "category": "People",
+    "url": "https://tools.epieos.com/holehe.php"
+  },
+  {
+    "name": "FastPeopleSearch",
+    "description": "Mostly good for US.",
+    "category": "People",
+    "url": "http://fastpeoplesearch.com/"
+  },
+  {
+    "name": "GetContact",
+    "description": "Phonenumber ID app - draws from crowdsourced contactbooks",
+    "category": "People",
+    "url": "https://www.getcontact.com/en/"
+  },
+  {
+    "name": "Ghunt",
+    "description": "A command line tool for obtaining information about Google accounts.",
+    "category": "People",
+    "url": "https://github.com/mxrch/GHunt"
+  },
+  {
+    "name": "Have I Been Pwned?",
+    "description": "Does an email or a phone number appear in data breaches?",
+    "category": "People",
+    "url": "https://haveibeenpwned.com/"
+  },
+  {
+    "name": "Hitta.se",
+    "description": "Mapping service for Sweden",
+    "category": "People",
+    "url": "https://www.hitta.se/"
+  },
+  {
+    "name": "Intelx.io",
+    "description": "Find user details in data breaches",
+    "category": "People",
+    "url": "http://intelx.io/"
+  },
+  {
+    "name": "Leak-Lookup",
+    "description": "An online tool that allows you to search across public data breaches to surface credentials that may have been compromised.",
+    "category": "People",
+    "url": "https://leak-lookup.com/"
+  },
+  {
+    "name": "Maigret",
+    "description": "Maigret is a Python script that retrieves user information by searching for usernames across various websites and social media platforms.",
+    "category": "People",
+    "url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "name": "Bellingcat Name Variant Search",
+    "description": "Simple tool to help search for different ways of writing a name.",
+    "category": "People",
+    "url": "https://bellingcat.github.io/name-variant-search/"
+  },
+  {
+    "name": "Namechk",
+    "description": "A username and domain search tool that checks on which platforms or domain a given username is registered.",
+    "category": "People",
+    "url": "https://namechk.com/"
+  },
+  {
+    "name": "NeutrOSINT",
+    "description": "A tool for investigating Proton Mail addresses.",
+    "category": "People",
+    "url": "https://github.com/Kr0wZ/NeutrOSINT"
+  },
+  {
+    "name": "NigeriaPhonebook",
+    "description": "Look up by name, state, and phone number. Last names are partially censored for free accounts.",
+    "category": "People",
+    "url": "https://nigeriaphonebook.com/"
+  },
+  {
+    "name": "Person Lookup",
+    "description": "find individuals, phonenumbers, and adresses",
+    "category": "People",
+    "url": "https://personlookup.co.za/"
+  },
+  {
+    "name": "Pipl",
+    "description": "Identity information for professionals",
+    "category": "People",
+    "url": "http://pipl.com/"
+  },
+  {
+    "name": "Ratsit",
+    "description": "Look up phone numbers/names (Sweden)",
+    "category": "People",
+    "url": "https://www.ratsit.se/"
+  },
+  {
+    "name": "Search Systems",
+    "description": "Finding public record information online in over 70,000 databases organized by type and location to help you find property, criminal, court, birth, death, marriage, divorce records, licenses, deeds, mortgages, corporate records, business registration, and many other public record resources.",
+    "category": "People",
+    "url": "https://publicrecords.searchsystems.net/"
+  },
+  {
+    "name": "Sherlock",
+    "description": "Check usernames across more than 400 websites and social networks.",
+    "category": "People",
+    "url": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "name": "Skopenow",
+    "description": "Social Media Investigations - name, phone, email, username searches",
+    "category": "People",
+    "url": "https://www.skopenow.com/"
+  },
+  {
+    "name": "Spokeo",
+    "description": "People search through email, phone, name",
+    "category": "People",
+    "url": "http://spokeo.com/"
+  },
+  {
+    "name": "Swedish Name Register",
+    "description": "Find out how common a name is in Sweden based on census data",
+    "category": "People",
+    "url": "https://scb.se/hitta-statistik/sverige-i-siffror/namnsok/"
+  },
+  {
+    "name": "The Law Pages",
+    "description": "Search criminal court case details in the UK, such as sentence, hearing, defendant, etc.",
+    "category": "People",
+    "url": "https://www.thelawpages.com/court-cases/court-case-search.php?mode=1"
+  },
+  {
+    "name": "ThisNumber",
+    "description": "An international directory of white pages and yellow pages phone books, and online directory enquiries. It's a free, independent and up-to-date guide to telephone directories on the web.",
+    "category": "People",
+    "url": "https://sur.ly/o/numberway.com/AA000014"
+  },
+  {
+    "name": "TrueCaller",
+    "description": "Truecaller is a caller ID app that identifies incoming calls, blocks unwanted numbers and gathers phone numbers and names from contact lists. It also performs reverse phone number search.",
+    "category": "People",
+    "url": "https://www.truecaller.com/"
+  },
+  {
+    "name": "TruffleHog",
+    "description": "Find leaked credentials.",
+    "category": "People",
+    "url": "https://trufflesecurity.com/trufflehog"
+  },
+  {
+    "name": "WAtools.io",
+    "description": "Track whatsapp activity, number, profile picture. Check if number is used, download profile pic, check online status.",
+    "category": "People",
+    "url": "http://watools.io/"
+  },
+  {
+    "name": "WhatsMyName",
+    "description": "Search for usernames on several hundred platforms",
+    "category": "People",
+    "url": "https://whatsmyname.app/"
+  },
+  {
+    "name": "Worldwide Osint Tools map",
+    "description": "Global overview of yellow/white pages, court cases, business registries etc.",
+    "category": "People",
+    "url": "https://cipher387.github.io/osintmap/"
+  },
+  {
+    "name": "Disboard",
+    "description": "Search for public discord servers",
+    "category": "Discord",
+    "url": "https://disboard.org/servers"
+  },
+  {
+    "name": "DiscordLeaks",
+    "description": "Search hundreds of thousands of messages leaked from 180+ white-supremacist / nazi discord servers.",
+    "category": "Discord",
+    "url": "https://discordleaks.unicornriot.ninja/discord/server/"
+  },
+  {
+    "name": "Facebook Video Downloader",
+    "description": "Handy website to download public Facebook videos. Copy paste the URL of the video and download it in the available definition formats.",
+    "category": "Facebook",
+    "url": "http://fdown.net/"
+  },
+  {
+    "name": "HaveIBeenZuckered",
+    "description": "Check if a telephone number is present within the Facebook data breach.",
+    "category": "Facebook",
+    "url": "https://haveibeenzuckered.com/"
+  },
+  {
+    "name": "Meta Content Library",
+    "description": "Meta Content Library is a controlled-access tool that lets approved academic and non-profit researchers search the full public archive of Facebook, Instagram, and Threads posts, in near-real-time.",
+    "category": "Facebook",
+    "url": "https://transparency.meta.com/researchtools/meta-content-library"
+  },
+  {
+    "name": "Skopenow",
+    "description": "Social Media Investigations - name, phone, email, username searches",
+    "category": "Facebook",
+    "url": "https://www.skopenow.com/"
+  },
+  {
+    "name": "Sowdust FB search",
+    "description": "[graph.tips/beta](http://graph.tips/beta) This page tries to be a simple interface to show how the current Facebook search function works, after Graph search was closed.",
+    "category": "Facebook",
+    "url": "http://sowsearch.info"
+  },
+  {
+    "name": "Who posted what?",
+    "description": "A tool that allows a keyword search on Facebook on a specific date or within a specific time frame.",
+    "category": "Facebook",
+    "url": "https://whopostedwhat.com/"
+  },
+  {
+    "name": "Bellingcat Insta Location Search",
+    "description": "Finds Instagram location IDs near a specified latitude and longitude",
+    "category": "Instagram",
+    "url": "https://github.com/bellingcat/instagram-location-search"
+  },
+  {
+    "name": "InstaLoader",
+    "description": "Download pictures (or videos) along with their captions and other metadata from Instagram.",
+    "category": "Instagram",
+    "url": "https://instaloader.github.io"
+  },
+  {
+    "name": "Instagram Location Search",
+    "description": "A command line tool that allows users to find location tags near a specified latitude and longitude.",
+    "category": "Instagram",
+    "url": "https://github.com/bellingcat/instagram-location-search/tree/main"
+  },
+  {
+    "name": "Picuki",
+    "description": "Picuki is an online tool that makes it possible to view and download Instagram public content without the need of being logged in.",
+    "category": "Instagram",
+    "url": "https://www.picuki.com/"
+  },
+  {
+    "name": "Skopenow",
+    "description": "Social Media Investigations - name, phone, email, username searches",
+    "category": "Instagram",
+    "url": "https://www.skopenow.com/"
+  },
+  {
+    "name": "Story Saver",
+    "description": "Download public Instagram Stories, Highlights and Videos.",
+    "category": "Instagram",
+    "url": "https://storysaver.net"
+  },
+  {
+    "name": "Email to LinkedIn (Epieos)",
+    "description": "Check if an email address is connected to a LinkedIn Profile",
+    "category": "LinkedIn",
+    "url": "https://tools.epieos.com/linkedin.php"
+  },
+  {
+    "name": "Skopenow",
+    "description": "Social Media Investigations - name, phone, email, username searches",
+    "category": "LinkedIn",
+    "url": "https://www.skopenow.com/"
+  },
+  {
+    "name": "Blackbird",
+    "description": "Check usernames and email addresses on websites and social networks",
+    "category": "Multiple Networks",
+    "url": "https://github.com/p1ngul1n0/blackbird"
+  },
+  {
+    "name": "Have I Been Pwned?",
+    "description": "Does an email or a phone number appear in data breaches?",
+    "category": "Multiple Networks",
+    "url": "https://haveibeenpwned.com/"
+  },
+  {
+    "name": "holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "category": "Multiple Networks",
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "name": "Intelx.io",
+    "description": "Find user details in data breaches",
+    "category": "Multiple Networks",
+    "url": "http://intelx.io/"
+  },
+  {
+    "name": "Namechk",
+    "description": "A username and domain search tool that checks on which platforms or domain a given username is registered.",
+    "category": "Multiple Networks",
+    "url": "https://namechk.com/"
+  },
+  {
+    "name": "Open Measures",
+    "description": "Open Measures helps open source researchers investigate harmful online activity such as extremism and disinformation.",
+    "category": "Multiple Networks",
+    "url": "https://public.openmeasures.io"
+  },
+  {
+    "name": "Sherlock",
+    "description": "Check usernames across more than 400 websites and social networks.",
+    "category": "Multiple Networks",
+    "url": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "name": "Skopenow",
+    "description": "Social Media Investigations - name, phone, email, username searches",
+    "category": "Multiple Networks",
+    "url": "https://www.skopenow.com/"
+  },
+  {
+    "name": "Social-searcher",
+    "description": "Search hashtags and usernames across various platforms.",
+    "category": "Multiple Networks",
+    "url": "https://www.social-searcher.com/"
+  },
+  {
+    "name": "WhatsMyName",
+    "description": "Search for usernames on several hundred platforms",
+    "category": "Multiple Networks",
+    "url": "https://whatsmyname.app/"
+  },
+  {
+    "name": "4plebs",
+    "description": "Searchable archive of specific 4chan boards. Makes it possible to read threads after they are purged from 4chan.",
+    "category": "Other Networks",
+    "url": "https://4plebs.org/"
+  },
+  {
+    "name": "Blackbird",
+    "description": "Check usernames and email addresses on websites and social networks",
+    "category": "Other Networks",
+    "url": "https://github.com/p1ngul1n0/blackbird"
+  },
+  {
+    "name": "Bluesky Insights",
+    "description": "Bluesky Insights is a free web-based analytics tool for the Bluesky social network.",
+    "category": "Other Networks",
+    "url": "https://bskyinsights.com"
+  },
+  {
+    "name": "BskyFollowFinder/Bluesky network analyzer",
+    "description": "A tool that identifies which Bluesky accounts are followed by a profile’s contacts but not by that profile. Can be used for expanding networks and social graph analysis.",
+    "category": "Other Networks",
+    "url": "https://bsky-follow-finder.theo.io/"
+  },
+  {
+    "name": "BskyThreadReader",
+    "description": "BskyThreadReader is a web-based Bluesky thread viewer that allows anyone to read and share Bluesky threads without logging in.",
+    "category": "Other Networks",
+    "url": "https://bskythreadreader.glitch.me/"
+  },
+  {
+    "name": "ClubhouseDB",
+    "description": "Search users, number of followers/following, and date of registry",
+    "category": "Other Networks",
+    "url": "https://clubhousedb.com/"
+  },
+  {
+    "name": "DiscordLeaks",
+    "description": "Search hundreds of thousands of messages leaked from 180+ white-supremacist / nazi discord servers.",
+    "category": "Other Networks",
+    "url": "https://discordleaks.unicornriot.ninja/discord/server/"
+  },
+  {
+    "name": "Google Account Finder (EPIEOS)",
+    "description": "Find the profile picture and public Google Map Reviews + Photos associated with a G-mail adress. Also checks for phone numbers, and checks for email addresses on social networks",
+    "category": "Other Networks",
+    "url": "https://tools.epieos.com/google-account.php"
+  },
+  {
+    "name": "Gravatar Email Checker",
+    "description": "Check if an email address has been used to comment on blogs and whether there is a profile image attached.",
+    "category": "Other Networks",
+    "url": "https://en.gravatar.com/site/check/"
+  },
+  {
+    "name": "NameMC",
+    "description": "Find usernames, track username changes on minecraft",
+    "category": "Other Networks",
+    "url": "https://namemc.com/"
+  },
+  {
+    "name": "Open Measures",
+    "description": "Open Measures helps open source researchers investigate harmful online activity such as extremism and disinformation.",
+    "category": "Other Networks",
+    "url": "https://public.openmeasures.io"
+  },
+  {
+    "name": "Parler Video Uploads Map",
+    "description": "A map showing the approximate (100ft) location of where Parler videos have been uploaded.",
+    "category": "Other Networks",
+    "url": "https://kylemcdonald.net/parler/map/"
+  },
+  {
+    "name": "Photo-Map.RU",
+    "description": "Geotagged VK posts.",
+    "category": "Other Networks",
+    "url": "http://photo-map.ru/"
+  },
+  {
+    "name": "PSNprofiles",
+    "description": "Search PlayStation username, see daily activity, games played, country, and profile pic",
+    "category": "Other Networks",
+    "url": "https://psnprofiles.com/"
+  },
+  {
+    "name": "Search4Faces",
+    "description": "Upload a facepic, find similar on VKontakte, Odnoklassniki, TikTok, Clubhouse)",
+    "category": "Other Networks",
+    "url": "https://search4faces.com"
+  },
+  {
+    "name": "Sherlock",
+    "description": "Check usernames across more than 400 websites and social networks.",
+    "category": "Other Networks",
+    "url": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "name": "Snap Map",
+    "description": "Searchable map of geotagged snaps.",
+    "category": "Other Networks",
+    "url": "http://map.snapchat.com/"
+  },
+  {
+    "name": "SteamId.uk",
+    "description": " Lookup player names, view (more) previously used names, and when accounts befriended eachother (Free). View screenshots of account, (bulk) seach based on previously used names (paid). ",
+    "category": "Other Networks",
+    "url": "http://steamid.uk/"
+  },
+  {
+    "name": "Strava",
+    "description": "Social media fitness app with exercise map based on users' GPS data.",
+    "category": "Other Networks",
+    "url": "https://www.strava.com"
+  },
+  {
+    "name": "WAtools.io",
+    "description": "Track whatsapp activity, number, profile picture. Check if number is used, download profile pic, check online status.",
+    "category": "Other Networks",
+    "url": "http://watools.io/"
+  },
+  {
+    "name": "XboxGamertag",
+    "description": "Search gamertags, see games played and recorded game clips",
+    "category": "Other Networks",
+    "url": "https://xboxgamertag.com/"
+  },
+  {
+    "name": "F5Bot",
+    "description": "Sends you an email when a keyword is mentioned on Reddit.",
+    "category": "Reddit",
+    "url": "https://f5bot.com/"
+  },
+  {
+    "name": "Redective",
+    "description": "Analyse Reddit profiles - incl word frequency and active hours",
+    "category": "Reddit",
+    "url": "https://www.redective.com/"
+  },
+  {
+    "name": "Intelligence X Telegram Search",
+    "description": "Google-based search engine for Telegram (includes Telegago)",
+    "category": "Telegram",
+    "url": "https://intelx.io/tools?tab=telegram"
+  },
+  {
+    "name": "Open Measures",
+    "description": "Open Measures helps open source researchers investigate harmful online activity such as extremism and disinformation.",
+    "category": "Telegram",
+    "url": "https://public.openmeasures.io"
+  },
+  {
+    "name": "Telegago",
+    "description": "Telegago is a Google Custom Search Engine tailored for searching public Telegram content for OSINT purposes.",
+    "category": "Telegram",
+    "url": "https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg"
+  },
+  {
+    "name": "Telegram Group Joiner",
+    "description": "Automate joining multiple Telegram groups and channels, ideal for researchers monitoring specific topics.",
+    "category": "Telegram",
+    "url": "https://bellingcat.github.io/telegram-group-joiner/"
+  },
+  {
+    "name": "Telegram Phone Number Checker",
+    "description": "Command line tool for checking if phone numbers are connected to Telegram accounts and retrieving related information where available.",
+    "category": "Telegram",
+    "url": "https://colab.research.google.com/github/bellingcat/open-source-research-notebooks/blob/main/notebooks/bellingcat/telegram-phone-number-checker.ipynb"
+  },
+  {
+    "name": "TelegramDB",
+    "description": "TelegramDB is a searchable database service that allows users to explore public Telegram groups and channels via a dedicated bot.",
+    "category": "Telegram",
+    "url": "https://telegramdb.org"
+  },
+  {
+    "name": "Telemetrio",
+    "description": "Telemetr.io offers a range of Telegram-related services based on a catalog of Telegram channels: country and category-specific rankings, curated collections, real-time event tracking, and an API.",
+    "category": "Telegram",
+    "url": "https://telemetr.io/"
+  },
+  {
+    "name": "Telemetry",
+    "description": "An analytical search tool for Telegram groups and channels.",
+    "category": "Telegram",
+    "url": "https://www.telemetryapp.io/"
+  },
+  {
+    "name": "Telepathy",
+    "description": "Telepathy is a versatile Telegram toolkit for OSINT analysts, enabling chat archiving, memberlist gathering, user location lookup, top poster analysis, message mapping, and more.",
+    "category": "Telegram",
+    "url": "https://github.com/jordanwildon/Telepathy"
+  },
+  {
+    "name": "TGStat",
+    "description": "TGStat is a web-based analytics tool for Telegram that monitors active channels and provides profile analytics and statistics. It tracks channel subscribers’ growth rate, reach, and citation index.",
+    "category": "Telegram",
+    "url": "https://tgstat.com/"
+  },
+  {
+    "name": "tlgrm.eu channels",
+    "description": "Search Telegram channels.",
+    "category": "Telegram",
+    "url": "http://tlgrm.eu/channels"
+  },
+  {
+    "name": "Bellingcat TikTok Date Extract",
+    "description": "Get the exact upload date + time for tiktok video urls",
+    "category": "Tiktok",
+    "url": "https://bellingcat.github.io/tiktok-timestamp"
+  },
+  {
+    "name": "Bellingcat TikTok Hashtag Analysis",
+    "description": "Archive content and metadata from TikTok posts that contain one or more specified hashtags",
+    "category": "Tiktok",
+    "url": "https://github.com/bellingcat/tiktok-hashtag-analysis"
+  },
+  {
+    "name": "Open Measures",
+    "description": "Open Measures helps open source researchers investigate harmful online activity such as extremism and disinformation.",
+    "category": "Tiktok",
+    "url": "https://public.openmeasures.io"
+  },
+  {
+    "name": "Search4Faces",
+    "description": "Upload a facepic, find similar on VKontakte, Odnoklassniki, TikTok, Clubhouse)",
+    "category": "Tiktok",
+    "url": "https://search4faces.com"
+  },
+  {
+    "name": "TikTokApi",
+    "description": "Python - This is an unofficial api wrapper for TikTok.com in python. With this api you are able to call most trending and fetch specific user information as well as much more.",
+    "category": "Tiktok",
+    "url": "https://pypi.org/project/TikTokApi"
+  },
+  {
+    "name": "Hoaxy",
+    "description": "Hoaxy is a web-based search and visualization tool. It helps visualize the spread of information on Bluesky and X (Twitter).",
+    "category": "Twitter/X",
+    "url": "https://hoaxy.osome.iu.edu/"
+  },
+  {
+    "name": "Skopenow",
+    "description": "Social Media Investigations - name, phone, email, username searches",
+    "category": "Twitter/X",
+    "url": "https://www.skopenow.com/"
+  },
+  {
+    "name": "Twitter/X Advanced Search",
+    "description": "Twitter/X Advanced Search is X's own tool to help users find more precise information on the platform by filtering posts according to criteria such as location, user, date or popularity.",
+    "category": "Twitter/X",
+    "url": "https://x.com/search-advanced"
+  },
+  {
+    "name": "Twitter/X Location Search",
+    "description": "Search for geocoded tweets by their distance from some coordinates.",
+    "category": "Twitter/X",
+    "url": "https://twitter.com/explore"
+  },
+  {
+    "name": "Twitter Video Downloader",
+    "description": "Download videos from X (formerly Twitter) by converting tweet URLs into downloadable video links.",
+    "category": "Twitter/X",
+    "url": "https://twittervideodownloader.com/"
+  },
+  {
+    "name": "FindClone",
+    "description": "Searches images from VK profiles (within certain limits)",
+    "category": "Vkontakte",
+    "url": "https://findclone.ru/"
+  },
+  {
+    "name": "Photo-Map.RU",
+    "description": "Geotagged VK posts.",
+    "category": "Vkontakte",
+    "url": "http://photo-map.ru/"
+  },
+  {
+    "name": "Search4Faces",
+    "description": "Upload a facepic, find similar on VKontakte, Odnoklassniki, TikTok, Clubhouse)",
+    "category": "Vkontakte",
+    "url": "https://search4faces.com"
+  },
+  {
+    "name": "Vk.watch",
+    "description": "See public comments left by an account, profile photos used, and very basic facial recognition",
+    "category": "Vkontakte",
+    "url": "http://vk.watch/"
+  },
+  {
+    "name": "Ghunt",
+    "description": "A command line tool for obtaining information about Google accounts.",
+    "category": "Youtube",
+    "url": "https://github.com/mxrch/GHunt"
+  },
+  {
+    "name": "MW Geofind",
+    "description": "MW Geofind is a tool designed to help users identify the filming location of YouTube videos, facilitating the exploration of global content from a geographical perspective.",
+    "category": "Youtube",
+    "url": "https://mattw.io/youtube-geofind/location"
+  },
+  {
+    "name": "youtube-dl",
+    "description": "Python tool to download from a variety of sources. Select video / audio formats, quality etc. Updated frequently to support parsing the relevant sources (alternate link: youtube-dl.org)",
+    "category": "Youtube",
+    "url": "http://rg3.github.io/youtube-dl/"
+  },
+  {
+    "name": "YouTube Metadata",
+    "description": "An alternative to Amnesty's YT viewer, with slightly more information.",
+    "category": "Youtube",
+    "url": "https://mattw.io/youtube-metadata/"
+  },
+  {
+    "name": "ADS-B Exchange",
+    "description": "Live flight tracker (including many miltiary aircraft). Live data available for the past month. Historical data available for purchase by request.",
+    "category": "Transport",
+    "url": "https://globe.adsbexchange.com/"
+  },
+  {
+    "name": "Airfleets",
+    "description": "Database for aircraft details.",
+    "category": "Transport",
+    "url": "http://airfleets.net/home"
+  },
+  {
+    "name": "Airframes",
+    "description": "A database of aircraft details",
+    "category": "Transport",
+    "url": "http://www.airframes.org/"
+  },
+  {
+    "name": "AirNav RadarBox",
+    "description": "Live flight tracker.",
+    "category": "Transport",
+    "url": "http://radarbox24.com/"
+  },
+  {
+    "name": "Aviation Safety Network",
+    "description": "Aircraft incident database; can be searched by country, registration, year, etc.",
+    "category": "Transport",
+    "url": "https://aviation-safety.net/"
+  },
+  {
+    "name": "Chronotrains",
+    "description": "Chronotrains is a free interactive map designed to explore the reach of Europe’s extensive rail network. Enter a starting point and travel time to see reachable destinations by train.",
+    "category": "Transport",
+    "url": "https://www.chronotrains.com/en"
+  },
+  {
+    "name": "Equasis",
+    "description": "Equasis provides vessel ownership and safety records, as well as shipping company fleet information.",
+    "category": "Transport",
+    "url": "https://www.equasis.org/"
+  },
+  {
+    "name": "Federal Aviation Administration",
+    "description": "Nationwide Plane Registry. Search by N-Number (a.k.a. callsign). Comprehensive list of privately owned planes in the US.",
+    "category": "Transport",
+    "url": "http://registry.faa.gov/aircraftinquiry/NNum\\_inquiry.aspx"
+  },
+  {
+    "name": "FlightAware",
+    "description": "FlightAware is a global flight-tracking platform that provides real-time data on aircraft movements. It offers live tracking, historical data, and predictive analytics via its website and apps.",
+    "category": "Transport",
+    "url": "http://flightaware.com/"
+  },
+  {
+    "name": "Flightradar24",
+    "description": "Flightradar24 is a real-time flight tracking service that provides detailed information about aircraft positions, flight numbers, origins, destinations, historical data, and aircraft information.",
+    "category": "Transport",
+    "url": "https://www.flightradar24.com"
+  },
+  {
+    "name": "GPSJam",
+    "description": "GPSJam.org is a daily map that visualizes the GPS/GNSS disruptions on aircraft worldwide. It collects and presents 24-hour data showing areas experiencing interference.",
+    "category": "Transport",
+    "url": "https://gpsjam.org/"
+  },
+  {
+    "name": "Icarus Flights",
+    "description": "Flight tracking platform with 2 years free historical data; highly customizable search parameters",
+    "category": "Transport",
+    "url": "https://app.icarus.flights/"
+  },
+  {
+    "name": "Illegal, unreported, unregular fishing Vessels List",
+    "description": "A combined list of known illegal, unreported, unregular fishing vessels",
+    "category": "Transport",
+    "url": "https://iuu-vessels.org/Home/Search"
+  },
+  {
+    "name": "IMO Registry",
+    "description": "Ship/shipping-related information from the IMO",
+    "category": "Transport",
+    "url": "http://webaccounts.imo.org/"
+  },
+  {
+    "name": "License Plate Mania",
+    "description": "collection of license plate pictures across the world.",
+    "category": "Transport",
+    "url": "http://licenseplatemania.com/"
+  },
+  {
+    "name": "License Plate Map (Americas)",
+    "description": "Map of North & South America with pictures of license plates",
+    "category": "Transport",
+    "url": "https://archive.is/07xaa"
+  },
+  {
+    "name": "License Plate Map (Asia & Middle East)",
+    "description": "Map of Asia & Middle East with pictures of license plates",
+    "category": "Transport",
+    "url": "https://archive.is/pQGms"
+  },
+  {
+    "name": "License Plate Map (Europe)",
+    "description": "Map of Europe with pictures of license plates",
+    "category": "Transport",
+    "url": "https://archive.is/QZD7A"
+  },
+  {
+    "name": "License Plate Maps",
+    "description": "Collection of tools and maps for discerning license plates by country",
+    "category": "Transport",
+    "url": "https://bellingcat.gitbook.io/toolkit/more/all-tools/license-plate-maps"
+  },
+  {
+    "name": "Live ATC",
+    "description": "Audio from air traffic control towers in the United States. Aircraft have to identify themselves to ATC towers, so in cases where aircraft are trying to obscure their information from other sites, it might be another way to grab tail numbers or just generally track flights. More complicated to use than e.g. Flightradar24.",
+    "category": "Transport",
+    "url": "http://liveatc.net/"
+  },
+  {
+    "name": "MarineTraffic",
+    "description": "An open, community-based project, providing (near) real-time information on the movements of ships and their locations in harbours and ports.",
+    "category": "Transport",
+    "url": "https://www.marinetraffic.com/en/ais/home/centerx:25.0/centery:-34.5/zoom:8"
+  },
+  {
+    "name": "OpenRailwayMap",
+    "description": "a detailed online map of the world's railway infrastructure",
+    "category": "Transport",
+    "url": "https://wiki.openstreetmap.org/wiki/OpenRailwayMap"
+  },
+  {
+    "name": "OpenSanctions",
+    "description": "Open-source international database of sanctions data, persons of interest and politically exposed persons.",
+    "category": "Transport",
+    "url": "https://www.opensanctions.org/"
+  },
+  {
+    "name": "OpenSky-Network",
+    "description": "Community, open source flight tracking network.",
+    "category": "Transport",
+    "url": "http://opensky-network.org/"
+  },
+  {
+    "name": "PlaneFinder",
+    "description": "Live flight tracker.",
+    "category": "Transport",
+    "url": "http://planefinder.net/"
+  },
+  {
+    "name": "ShipSpotting.com",
+    "description": "Community website for uploading pictures & details of vessels spotted around the world.",
+    "category": "Transport",
+    "url": "http://shipspotting.com/"
+  },
+  {
+    "name": "Tokyo MOU",
+    "description": "Ship inspection/history database (PSC Database)",
+    "category": "Transport",
+    "url": "http://www.tokyo-mou.org/"
+  },
+  {
+    "name": "VesselFinder",
+    "description": "Live marine vessel tracker.",
+    "category": "Transport",
+    "url": "https://www.vesselfinder.com/"
+  },
+  {
+    "name": "WikiRoutes",
+    "description": "Public transport database.",
+    "category": "Transport",
+    "url": "http://wikiroutes.info/"
+  },
+  {
+    "name": "Winward",
+    "description": "Platform which combines maritime-related data.",
+    "category": "Transport",
+    "url": "https://www.wnwd.com/"
+  },
+  {
+    "name": "Distill.io",
+    "description": "Distill.io is a website change monitoring tool that allows users to track changes on web pages.",
+    "category": "Websites",
+    "url": "https://distill.io/"
+  },
+  {
+    "name": "DNS Cyrillic Check",
+    "description": "Check if malicious or Cyrillic domains are registered",
+    "category": "Websites",
+    "url": "https://holdintegrity.com/checker"
+  },
+  {
+    "name": "DNS History",
+    "description": "Collection of historical DNS information.",
+    "category": "Websites",
+    "url": "http://completedns.com/"
+  },
+  {
+    "name": "DomainTools Whois Lookup",
+    "description": "DomainTools Whois provides detailed domain name registration information, and can be used to investigate details about domains or IP addresses.",
+    "category": "Websites",
+    "url": "https://whois.domaintools.com/"
+  },
+  {
+    "name": "Geo IP Tools",
+    "description": "Check your own IP, handy to check if your VPN is working.",
+    "category": "Websites",
+    "url": "http://geoiptool.com/"
+  },
+  {
+    "name": "ICANN Lookup",
+    "description": "This tool allows you to search for the current registration data of internet domain names.",
+    "category": "Websites",
+    "url": "https://lookup.icann.org/"
+  },
+  {
+    "name": "Intelx.io",
+    "description": "Find user details in data breaches",
+    "category": "Websites",
+    "url": "http://intelx.io/"
+  },
+  {
+    "name": "Wayback Machine",
+    "description": "The Internet Archive's Wayback Machine lets users view and archive web pages, aiding in historical research and digital preservation.",
+    "category": "Websites",
+    "url": "https://web.archive.org/"
+  },
+  {
+    "name": "Moz Link Explorer",
+    "description": "Analyse the links of any website.",
+    "category": "Websites",
+    "url": "http://moz.com/link-explorer"
   },
   {
     "name": "Shodan",
-    "description": "محرك بحث للأجهزة المتصلة بالإنترنت",
-    "category": "تحليل المواقع الإلكترونية",
-    "url": "https://www.shodan.io"
+    "description": "A search engine for devices that are connected to the internet.",
+    "category": "Websites",
+    "url": "https://www.shodan.io/"
+  },
+  {
+    "name": "The Information Laundromat",
+    "description": "A tool for analyzing content replication and site architecture to detect information laundering.",
+    "category": "Websites",
+    "url": "https://informationlaundromat.com"
+  },
+  {
+    "name": "Vortimo",
+    "description": "Suite of tools for website, email, WHOIS, etc. analysis",
+    "category": "Websites",
+    "url": "https://www.vortimo.com/"
+  },
+  {
+    "name": "Web Archives",
+    "description": "A browser extension to view archived and cached versions of a website on multiple archiving sites.",
+    "category": "Websites",
+    "url": "https://apps.apple.com/us/app/web-archives-for-safari/id1603181853?platform=mac"
+  },
+  {
+    "name": "What CMS",
+    "description": "A tool that you can use to identify the technologies used to power a website.",
+    "category": "Websites",
+    "url": "https://whatcms.org/"
+  },
+  {
+    "name": "WHOIS History",
+    "description": "Historical WHOIS registration lookup",
+    "category": "Websites",
+    "url": "https://whois-history.whoisxmlapi.com/"
   }
 ]
